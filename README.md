@@ -1,6 +1,6 @@
 # Music Sales Analysis — SQL + Tableau Project
 
-This project explores music sales data using SQL for extraction and Tableau for visualization. The goal was to derive insights into artist performance, genre popularity, and monthly sales trends using a structured, reproducible workflow.
+This self-directed project explores music sales data using SQL for extraction and Tableau for visualization. The goal was to derive insights into artist performance, genre popularity, and monthly sales trends using a structured, reproducible workflow.
 
 ---
 
