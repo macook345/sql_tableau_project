@@ -1,10 +1,10 @@
 # Music Sales Analysis — SQL + Tableau Project
 
-This self-directed project uses the chinook database made available by lerocha at https://github.com/lerocha/chinook-database to investigate music sales data using SQL for extraction and Tableau for visualization. The goal was to derive insights into artist performance, genre popularity, and monthly sales trends using a structured, reproducible workflow.
+This self-directed project uses the chinook database made available by lerocha at https://github.com/lerocha/chinook-database to investigate music sales data using SQL and Tableau. The goal was to derive insights into artist performance, genre popularity, and monthly sales trends using a structured, reproducible workflow.
 
 ---
 
-##  Project Overview
+##  Overview
 
 - **Data Source**: Chinook database (music store sample dataset)
 - **SQL Tool**: DBeaver with SQLite
@@ -13,7 +13,7 @@ This self-directed project uses the chinook database made available by lerocha a
 
 ---
 
-## Key Insights
+## Insights
 
 - **Top Countries**: Identified top 5 countries by revenue
 - **Genre Grouping**: Combined minor genres under “Other” for clean visual analysis
@@ -22,7 +22,7 @@ This self-directed project uses the chinook database made available by lerocha a
   
 ---
 
-## Tools & Skills Used
+## Tools / Skills 
 
 - **SQL** (joins, aggregations, filtering, grouping)
 - **Tableau Public** (bar charts, trend lines, calculated fields, grouping)
