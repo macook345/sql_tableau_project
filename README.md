@@ -19,8 +19,8 @@ This self-directed project uses the chinook database made available by lerocha a
 - **Genre Grouping**: Combined minor genres under “Other” for clean visual analysis
 - **Sales Trends**: Analyzed monthly sales to understand customer behavior over time
 - **Top Artists**: Identified top 10 artists by all-time revenue
+  
 ---
-
 
 ## Tools & Skills Used
 
@@ -32,17 +32,9 @@ This self-directed project uses the chinook database made available by lerocha a
 
 ## How to Use
 
-1. **SQL**: All query scripts are saved under `sql/` — these can be run using any SQLite-compatible interface.
-2. **Data**: Exported query results are in `data/`, ready to be connected to Tableau.
-3. **Dashboard**: Open the `.twbx` files in Tableau Public to view interactive dashboards.
-
----
-
-## Notes
-
-- Data was cleaned and aggregated before visualization.
-- Minor categories were grouped in Tableau using calculated fields.
-- Queries were tested for syntax and output consistency.
+1. **SQL**: All query scripts are saved under `sql/` 
+2. **Data**: Exported query results are in `data/`
+3. **Dashboard**: Dashboard screenshots are in `tableau/`, as well as the associated `.twbx` files
 
 ---
 
